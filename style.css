@@ -51,12 +51,14 @@ li {
     width: 40px;
     height: 40px;
     background-color: rgb(255, 255, 255);
-    background-position: 50%;
+    background-position: 10px 50%;
+    background-size: 23px 23px;
 }
 
 
 .search-bar button:hover {
-    scale: 0.95
+    
+    scale: 1.07;
 }
 
 button span {
