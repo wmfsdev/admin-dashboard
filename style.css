@@ -46,7 +46,7 @@ li {
 }
  
 .search-bar button {
-    background-image: url("magnify.png");
+    background-image: url("/images/magnify.png");
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
@@ -89,7 +89,7 @@ input:hover {
 /* ----- PROFILE ----- */
 
 .profile-header {
-    background-image: url("ramen.png");
+    background-image: url("/images/ramen.png");
     grid-column: 1;
     grid-row: 2;
     background-repeat: no-repeat;
